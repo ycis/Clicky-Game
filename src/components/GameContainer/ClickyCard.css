@@ -1,0 +1,11 @@
+.row .col{
+  padding: 0 !important;
+}
+
+.row {
+  margin: 0 !important;
+}
+
+.card {
+  cursor: pointer;
+}
